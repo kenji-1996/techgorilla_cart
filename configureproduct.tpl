@@ -11,13 +11,14 @@ var _localLang = {
 
     <div class="row">
 
+        <!--
         <div class="pull-md-right col-md-9">
 
             <div class="header-lined">
                 <h1>{$LANG.orderconfigure}</h1>
             </div>
 
-        </div>
+        </div>-->
 
         <div class="col-md-3 pull-md-left sidebar hidden-xs hidden-sm">
 

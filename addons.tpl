@@ -4,13 +4,14 @@
 
     <div class="row">
 
+        <!--
         <div class="pull-md-right col-md-9">
 
             <div class="header-lined">
                 <h1>{$LANG.cartproductaddons}</h1>
             </div>
 
-        </div>
+        </div>-->
 
         <div class="col-md-3 pull-md-left sidebar hidden-xs hidden-sm">
 
