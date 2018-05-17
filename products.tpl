@@ -5,19 +5,6 @@
     <div class="row">
 
         <div class="pull-md-right col-md-9">
-
-            <div class="header-lined">
-                <h1>
-                    {if $productGroup.headline}
-                        {$productGroup.headline}
-                    {else}
-                        {$productGroup.name}
-                    {/if}
-                </h1>
-                {if $productGroup.tagline}
-                    <p>{$productGroup.tagline}</p>
-                {/if}
-            </div>
             {if $errormessage}
                 <div class="alert alert-danger">
                     {$errormessage}
